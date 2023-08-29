@@ -1,3 +1,4 @@
 # ewon
 cute web game
-![screenshot]("img/screenshot1.png")
+
+![screenshot]("/img/screenshot1.png.png")
